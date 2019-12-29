@@ -33,7 +33,7 @@
   "block.elevatorid.dir_elevator_light_gray": "Directional Light Gray Elevator",
   "block.elevatorid.dir_elevator_yellow": "Directional Yellow Elevator",
 
-  "elevatorid.subtitle.teleport": "Elevator used",
+  "elevatorid.subtitle.teleport": "Używana winda",
 
   "itemGroup.tabElevators": "Elevators"
 }
